@@ -1,0 +1,30 @@
+TODO:
+Write automatic tests that make sure components are being rendered properly.
+
+Test Case 1 - PLACE:
+1. Open up webpage.
+2. If there is already a robot, use the clear button or manually remove the database.
+3. Click inside the grid at 0,0.
+4. Check to see if robot appears at 0,0,0.
+5. Hit the report button, should report 0,0,0.
+
+TODO
+Test Case 2 - PLACE outside boundaries
+Test Case 3 - PLACE after previous PLACE
+Test Case 4 - Reload page from last action
+Test Case 5 - MOVE test, north (click)
+Test Case 6 - MOVE test, east (click)
+Test Case 7 - MOVE test, west (click)
+Test Case 8 - MOVE test, south (click)
+Test Case 8 - MOVE test, boundary (click)
+Test Case 9 - LEFT test (click)
+Test Case 10 - RIGHT test (click)
+Test Case 11 - MOVE test, north (keyboard)
+Test Case 12 - MOVE test, east (keyboard)
+Test Case 13 - MOVE test, west (keyboard)
+Test Case 14 - MOVE test, south (keyboard)
+Test Case 15 - MOVE test, boundary (keyboard)
+Test Case 16 - LEFT test (keyboard)
+Test Case 17 - RIGHT test (keyboard)
+Test Case 18 - REPORT test (keyboard)
+Test Case 19 - REPORT test (click)
